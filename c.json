@@ -1,0 +1,57 @@
+{
+	"type": "list",
+	"headline": "Chaînes",
+	"template": {
+		"type": "control",
+		"layout": "0,0,4,1",
+		"imageFiller": "fit",
+		"extensionLabel": "{ico:live-tv}"
+	},
+	"items": [
+		{
+			"label": "{sp}ICI RDI",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/rdi.png",
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/rdi.m3u"
+		},
+		{
+			"label": "{sp}LCN",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/lcn.png",
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/lcn.m3u"
+		},
+		{
+			"label": "{sp}TVA",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tva.png",
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/tva.m3u"
+		},
+		{
+			"label": "{sp}FRANCE 24",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/france24.png",
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/f24.m3u"
+		},
+		{
+			"label": "{sp}LCI",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/lci.png",
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/lci.m3u"
+		},
+		{
+			"label": "{sp}TF1",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tf1.png",
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/tf1.m3u"
+		},
+		{
+			"label": "{sp}TV5 MONDE",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tv5.png",
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/tv5.m3u"
+		},
+		{
+			"label": "{sp}EURONEWS FR",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/euronews.png",
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/euronews.m3u"
+		},
+		{
+			"label": "{sp}BFM TV",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/bfm.png",
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/bfm.m3u"
+		}
+	]
+}
