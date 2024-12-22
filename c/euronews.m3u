@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/master/i/euronews.png",EURONEWS FR
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/euronews.png",EURONEWS FR
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8

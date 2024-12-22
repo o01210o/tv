@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/master/i/tva.png",TVA
+#EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tva.png",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8

@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/master/i/tv5.png",TV5 MONDE
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tv5.png",TV5 MONDE
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8

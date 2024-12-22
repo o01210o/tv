@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BFMTV.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/master/i/bfm.png",BFM TV
+#EXTINF:-1 tvg-id="BFMTV.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/bfm.png",BFM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
