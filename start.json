@@ -1,0 +1,5 @@
+{    
+    "name": "Chaînes",
+    "version": "1.0.0",
+    "parameter": "content:https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/c.json"
+}
