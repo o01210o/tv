@@ -46,7 +46,8 @@
 		{
 			"label": "{sp}EURONEWS FR",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/euronews.png",
-			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/euronews.m3u"
+			"action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=NiRIbKwAejk",
+			"playerLabel": "EURONEWS FR"
 		},
 		{
 			"label": "{sp}BFM TV",
