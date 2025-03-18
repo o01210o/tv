@@ -53,6 +53,46 @@
 			"label": "{sp}BFM TV",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/bfm.png",
 			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/bfm.m3u"
+		},
+		{
+			"type": "space"
+		},
+		{
+			"break": "page",
+			"enumerate": false,
+			"extensionLabel": "{ico:more-horiz}",
+			"label": "Chaînes CA",
+			"image": null,
+			"action": "content:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca.m3u"
+		},
+		{
+			"enumerate": false,
+			"extensionLabel": "{ico:more-horiz}",
+			"label": "Chaînes CA (2)",
+			"image": null,
+			"action": "content:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://iptv-org.github.io/iptv/countries/ca.m3u"
+		},
+		{
+			"break": "line",
+			"enumerate": false,
+			"extensionLabel": "{ico:more-horiz}",
+			"label": "Chaînes FR",
+			"image": null,
+			"action": "content:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/fr.m3u"
+		},
+		{
+			"enumerate": false,
+			"extensionLabel": "{ico:more-horiz}",
+			"label": "Chaînes FR (2)",
+			"image": null,
+			"action": "content:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://iptv-org.github.io/iptv/countries/fr.m3u"
+		},
+		{
+			"enumerate": false,
+			"extensionLabel": "{ico:more-horiz}",
+			"label": "Chaînes FR (3)",
+			"image": null,
+			"action": "content:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/fr.m3u8"
 		}
 	]
 }
