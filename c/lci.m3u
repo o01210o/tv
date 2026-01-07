@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="lci.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/lci.png",LCI
 
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/btv/py/lci1.m3u8
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
