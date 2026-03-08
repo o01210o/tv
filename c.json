@@ -58,10 +58,12 @@
 			"label": "{sp}BFM TV",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/bfm.png",
 			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/bfm.m3u"
+		},
+		{
+			"label": "{sp}i24NEWS FR",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/i24.png",
+			"action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=cTIYsKtvCRs",
+			"playerLabel": "i24NEWS FR"
 		}
 	]
 }
-
-
-
-
