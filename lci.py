@@ -20,8 +20,8 @@ def update_lci():
 		if lci_url:
 			header = "#EXTM3U"
 			infotag = '#EXTINF:-1 tvg-id="lci.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/lci.png",LCI'
-			#infotag2 = '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36'
-			content = f"{header}\n{infotag}\n{lci_url}"
+			infotag2 = '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36'
+			content = f"{header}\n{infotag}\n{lci_url}\n{infotag2}"
 			
 			with open(TARGET_FILE, "w", encoding="utf-8") as f:
 				f.write(content)
