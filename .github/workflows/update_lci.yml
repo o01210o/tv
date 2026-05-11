@@ -26,7 +26,7 @@ jobs:
       - name: Run update script
         env:
           SOURCE_M3U_URL: ${{ secrets.SOURCE_M3U_URL }}
-        run: python update_lci.py
+        run: python lci.py
 
       - name: Commit and Push changes
         run: |
