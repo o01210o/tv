@@ -31,7 +31,7 @@
 		{
 			"label": "{sp}LCI",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/lci.png",
-			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/c/lci.m3u"
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://tvradiozap.eu/tools/tf-m3u8.php/LCI.m3u8"
 		},
 		{
 			"label": "{sp}TF1",
@@ -46,7 +46,7 @@
 		{
 			"label": "{sp}TV5 MONDE VOYAGE",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tv5_voyage.png",
-			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/c/tv5_voyage.m3u"
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074"
 		},
 		{
 			"label": "{sp}EURONEWS FR",
