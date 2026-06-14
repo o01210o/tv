@@ -60,10 +60,10 @@
          "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/bfm.m3u"
       },
       {
-         "label": "16h {ico:sensors} {sp}{sp}{ico:arrow-right-alt}{sp}{sp} 19h {ico:access-time}",
+         "label": "19h {ico:sensors} {sp}{sp}{ico:arrow-right-alt}{sp}{sp} 22h {ico:access-time}",
          "image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26.png",
          "extensionLabel": "{ico:open-in-browser}",
-         "action": "link:https://tinyurl.com/2xkmpbmt"
+         "action": "link:https://tinyurl.com/2wce6m5w"
       },
       {
          "type": "button",
