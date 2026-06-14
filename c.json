@@ -60,10 +60,15 @@
          "action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/bfm.m3u"
       },
       {
-         "label": "⚽",
+         "label": "13h {ico:sensors} {sp}{sp}{ico:arrow-right-alt}{sp}{sp} 16h {ico:access-time}",
          "image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26.png",
          "extensionLabel": "{ico:open-in-browser}",
-         "action": "link:https://tinyurl.com/4yp7ujen"
+         "action": "link:https://tinyurl.com/38fcvd86"
+      },
+      {
+         "type": "button",
+         "label": "{ico:refresh} Recharger ",
+         "action": "reload"
       }
    ]
 }
