@@ -72,7 +72,7 @@
 			"enumerate": false,
 			"type": "button",
 			"label": "{ico:refresh} Recharger",
-			"action": "reload"
+			"action": "cleaning"
 		}
 	]
 }
