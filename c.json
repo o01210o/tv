@@ -67,7 +67,16 @@
 			"extensionLabel": "",
 			"alignment": "right",
 			"titleHeader": "{ico:access-time} 22 juin",
-			"titleFooter": "{ico:arrow-right}20h{ico:arrow-right}23h"
+			"titleFooter": "{ico:arrow-right}23h"
+		},
+		{
+			"label": "20h {ico:sensors}",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26.png",
+			"action": "link:https://tinyurl.com/y27yj6hf",
+			"extensionLabel": "",
+			"alignment": "right",
+			"titleHeader": "{ico:access-time} 22 juin",
+			"titleFooter": "{ico:arrow-right}23h"
 		},
 		{
 			"enumerate": false,
