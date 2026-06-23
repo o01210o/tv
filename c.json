@@ -61,15 +61,6 @@
 			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/bfm.m3u"
 		},
 		{
-			"label": "17h {ico:sensors}",
-			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26.png",
-			"action": "link:https://tinyurl.com/bdvjs6th",
-			"extensionLabel": "",
-			"alignment": "right",
-			"titleHeader": "{ico:access-time} 22 juin",
-			"titleFooter": "{ico:arrow-right}23h"
-		},
-		{
 			"label": "20h {ico:sensors}",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26.png",
 			"action": "link:https://tinyurl.com/y27yj6hf",
