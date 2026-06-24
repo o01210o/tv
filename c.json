@@ -67,9 +67,9 @@
 			"alignment": "text-right",
 			"centration": "text|title",
 			"action": "link:https://tinyurl.com/yf4v5naw",
-			"titleHeader": "{txt:msx-white:SUI 🇨🇭 🇨🇦 CAN}",
+			"titleHeader": "{txt:msx-white:SUI} {ico:#8e8e8e:flag} {txt:msx-white:CAN}",
 			"titleFooter": "{txt:msx-white:15h} {ico:msx-white:sensors}",
-			"text": "{ico:access-time} 24 juin{br}{ico:arrow-right}18h{ico:arrow-right}21h"
+			"text": "{ico:update} 24 juin{br}{ico:arrow-right}18h{ico:arrow-right}21h"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26.png",
@@ -78,13 +78,9 @@
 			"alignment": "text-right",
 			"centration": "text|title",
 			"action": "link:https://tinyurl.com/yf4v5naw",
-			"titleHeader": "{txt:msx-white:BIH 🇧🇦 🇶🇦 QAT}",
+			"titleHeader": "{txt:msx-white:BIH} {ico:#8e8e8e:flag} {txt:msx-white:QAT}",
 			"titleFooter": "{txt:msx-white:15h} {ico:msx-white:sensors}",
-			"text": "{ico:access-time} 24 juin{br}{ico:arrow-right}18h{ico:arrow-right}21h"
-		},
-		{
-			"display": false,
-			"text": "🇲🇦 🇭🇹 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇧🇷 🇿🇦 🇰🇷 🇨🇿 🇲🇽 🇨🇼 🇨🇮 🇪🇨 🇩🇪 🇹🇳 🇳🇱 🇯🇵 🇸🇪 🇹🇷 🇺🇸 🇵🇾 🇦🇺 🇳🇴 🇫🇷 🇸🇳 🇮🇶 🇨🇻 🇸🇦 🇺🇾 🇪🇸 🇳🇿 🇧🇪 🇪🇬 🇮🇷 🇵🇦 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇭🇷 🇬🇭 🇨🇴 🇵🇹 🇨🇩 🇺🇿 🇩🇿 🇦🇹 🇯🇴 🇦🇷"
+			"text": "{ico:update} 24 juin{br}{ico:arrow-right}18h{ico:arrow-right}21h"
 		},
 		{
 			"enumerate": false,
