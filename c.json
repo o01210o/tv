@@ -66,10 +66,10 @@
 			"extensionLabel": "",
 			"alignment": "text-right",
 			"centration": "text|title",
-			"action": "link:https://tinyurl.com/bdesd8x4",
-			"titleHeader": "{txt:msx-white:SUI} {ico:#8e8e8e:flag} {txt:msx-white:CAN}",
-			"titleFooter": "{txt:msx-white:15h} {ico:msx-white:sensors}",
-			"text": "{ico:update} 24 juin{br}{ico:arrow-right}18h{ico:arrow-right}21h"
+			"action": "link:https://tinyurl.com/5be8bu2n",
+			"titleHeader": "{txt:msx-white:MAR} {ico:#8e8e8e:flag} {txt:msx-white:HAI}",
+			"titleFooter": "{txt:msx-white:18h} {ico:msx-white:sensors}",
+			"text": "{ico:update} 24 juin{br}{ico:arrow-right}21h"
 		},
 		{
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26.png",
@@ -77,9 +77,9 @@
 			"extensionLabel": "",
 			"alignment": "text-right",
 			"centration": "text|title",
-			"action": "link:https://tinyurl.com/ybunpr7u",
-			"titleHeader": "{txt:msx-white:BIH} {ico:#8e8e8e:flag} {txt:msx-white:QAT}",
-			"titleFooter": "{txt:msx-white:15h} {ico:msx-white:sensors}",
+			"action": "link:https://tinyurl.com/3b43z4zt",
+			"titleHeader": "{txt:msx-white:SCO} {ico:#8e8e8e:flag} {txt:msx-white:BRA}",
+			"titleFooter": "{txt:msx-white:18h} {ico:msx-white:sensors}",
 			"text": ""
 		},
 		{
