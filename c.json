@@ -61,13 +61,30 @@
 			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/bfm.m3u"
 		},
 		{
-			"label": "22h {ico:sensors}",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26.png",
-			"action": "link:https://tinyurl.com/yf4v5naw",
+			"imageWidth": 0.67,
 			"extensionLabel": "",
-			"alignment": "right",
-			"titleHeader": "{ico:access-time} 24 juin",
-			"titleFooter": "{ico:arrow-right}15h{ico:arrow-right}18h{ico:arrow-right}21h"
+			"alignment": "text-right",
+			"centration": "text|title",
+			"action": "link:https://tinyurl.com/yf4v5naw",
+			"titleHeader": "{txt:msx-white:SUI 🇨🇭 🇨🇦 CAN}",
+			"titleFooter": "{txt:msx-white:15h} {ico:msx-white:sensors}",
+			"text": "{ico:access-time} 24 juin{br}{ico:arrow-right}18h{ico:arrow-right}21h"
+		},
+		{
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26.png",
+			"imageWidth": 0.67,
+			"extensionLabel": "",
+			"alignment": "text-right",
+			"centration": "text|title",
+			"action": "link:https://tinyurl.com/yf4v5naw",
+			"titleHeader": "{txt:msx-white:BIH 🇧🇦 🇶🇦 QAT}",
+			"titleFooter": "{txt:msx-white:15h} {ico:msx-white:sensors}",
+			"text": "{ico:access-time} 24 juin{br}{ico:arrow-right}18h{ico:arrow-right}21h"
+		},
+		{
+			"display": false,
+			"text": "🇲🇦 🇭🇹 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇧🇷 🇿🇦 🇰🇷 🇨🇿 🇲🇽 🇨🇼 🇨🇮 🇪🇨 🇩🇪 🇹🇳 🇳🇱 🇯🇵 🇸🇪 🇹🇷 🇺🇸 🇵🇾 🇦🇺 🇳🇴 🇫🇷 🇸🇳 🇮🇶 🇨🇻 🇸🇦 🇺🇾 🇪🇸 🇳🇿 🇧🇪 🇪🇬 🇮🇷 🇵🇦 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇭🇷 🇬🇭 🇨🇴 🇵🇹 🇨🇩 🇺🇿 🇩🇿 🇦🇹 🇯🇴 🇦🇷"
 		},
 		{
 			"enumerate": false,
