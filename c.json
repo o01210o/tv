@@ -67,21 +67,22 @@
 			"alignment": "text-right",
 			"centration": "text|title",
 			"action": "link:https://tinyurl.com/4ntxf282",
-			"titleHeader": "{txt:msx-white:RSA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:CAN}",
-			"titleFooter": "{txt:msx-white:15h} {ico:msx-white:sensors}",
-			"text": "{ico:update} 28 juin"
+			"titleHeader": "{txt:msx-white:BRA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:JPN}",
+			"titleFooter": "{txt:msx-white:13h} {ico:msx-white:sensors}",
+			"text": "GER{ico:#8e8e8e:horizontal-rule}PAR{br}{ico:arrow-right}16h30"
 		},
 		{
 			"enumerate": false,
-			"image": "https://i.imgur.com/uvpK31M.jpeg",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26_2.png",
 			"imageWidth": 0.67,
+			"imageFiller": "height-center",
 			"extensionLabel": "",
 			"alignment": "text-right",
 			"centration": "text|title",
 			"action": "image:context",
-			"titleHeader": "{txt:msx-white:BRA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:JPN}{ico:arrow-right}{txt:msx-white:13h}{br}{txt:msx-white:GER}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:PAR}{ico:arrow-right}{txt:msx-white:16h30}{br}{txt:msx-white:NED}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:MAR}{ico:arrow-right}{txt:msx-white:21h}",
+			"titleHeader": "{txt:msx-white:NED}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:MAR}{br}{txt:msx-white:CIV}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:NOR}{br}{txt:msx-white:FRA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:SWE}",
 			"titleFooter": "",
-			"text": "{ico:update} 29 juin"
+			"text": "29/06{ico:arrow-right}21h{br}30/06{ico:arrow-right}13h{br}30/06{ico:arrow-right}17h"
 		},
 		{
 			"enumerate": false,
