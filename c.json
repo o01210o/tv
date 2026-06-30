@@ -67,9 +67,9 @@
 			"alignment": "text-right",
 			"centration": "text|title",
 			"action": "link:https://tinyurl.com/mvnpe3fa",
-			"titleHeader": "{txt:msx-white:NED}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:MAR}",
-			"titleFooter": "{txt:msx-white:21h} {ico:msx-white:sensors}",
-			"text": ""
+			"titleHeader": "{txt:msx-white:CIV}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:NOR}{br}{txt:msx-white:13h} {ico:msx-white:sensors}",
+			"titleFooter": "",
+			"text": "{txt:msx-gray-light:FRA}{ico:#8e8e8e:horizontal-rule}{txt:msx-gray-light:SWE}{ico:arrow-right}17h{br}{txt:msx-gray-light:MEX}{ico:#8e8e8e:horizontal-rule}{txt:msx-gray-light:ECU}{ico:arrow-right}21h"
 		},
 		{
 			"enumerate": false,
@@ -80,9 +80,9 @@
 			"alignment": "text-right",
 			"centration": "text|title",
 			"action": "image:context",
-			"titleHeader": "{txt:msx-white:CIV}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:NOR}{br}{txt:msx-white:FRA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:SWE}{br}{txt:msx-white:MEX}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ECU}",
+			"titleHeader": "{txt:msx-white:ENG}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:COD}  {br}  {txt:msx-white:BEL}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:SEN}  {br}  {txt:msx-white:USA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:BIH}",
 			"titleFooter": "",
-			"text": "30 juin{ico:arrow-right}13h{br}{ico:arrow-right}17h{br}{ico:arrow-right}21h"
+			"text": "1 juillet{ico:arrow-right}12h{br}{ico:arrow-right}16h{br}{ico:arrow-right}20h"
 		},
 		{
 			"enumerate": false,
