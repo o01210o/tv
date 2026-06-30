@@ -62,14 +62,14 @@
 		},
 		{
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26.png",
-			"imageWidth": 0.67,
+			"imageWidth": 0.45,
 			"extensionLabel": "",
 			"alignment": "text-right",
 			"centration": "text|title",
-			"action": "link:https://tinyurl.com/3j73jj53",
-			"titleHeader": "{txt:msx-white:GER}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:PAR}",
-			"titleFooter": "{txt:msx-white:16h30} {ico:msx-white:sensors}",
-			"text": "NED{ico:#8e8e8e:horizontal-rule}MAR{br}{ico:arrow-right}21h"
+			"action": "link:https://tinyurl.com/2cm6k759",
+			"titleHeader": "{txt:msx-white:NED}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:MAR}",
+			"titleFooter": "{txt:msx-white:21h} {ico:msx-white:sensors}",
+			"text": ""
 		},
 		{
 			"enumerate": false,
@@ -82,7 +82,7 @@
 			"action": "image:context",
 			"titleHeader": "{txt:msx-white:CIV}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:NOR}{br}{txt:msx-white:FRA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:SWE}{br}{txt:msx-white:MEX}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ECU}",
 			"titleFooter": "",
-			"text": "30/06{ico:arrow-right}13h{br}30/06{ico:arrow-right}17h{br}30/06{ico:arrow-right}21h"
+			"text": "30 juin{ico:arrow-right}13h{br}{ico:arrow-right}17h{br}{ico:arrow-right}21h"
 		},
 		{
 			"enumerate": false,
