@@ -91,6 +91,7 @@
 			"action": "cleaning"
 		},
 		{
+			"display": false,
 			"label": "M6",
 			"extensionLabel": "{ico:open-in-browser}",
 			"action": "link:https://tinyurl.com/479hesdd"
