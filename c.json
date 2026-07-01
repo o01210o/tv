@@ -66,10 +66,10 @@
 			"extensionLabel": "",
 			"alignment": "text-right",
 			"centration": "text|title",
-			"action": "link:https://tinyurl.com/2s3kxt28",
-			"titleHeader": "{txt:msx-white:FRA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:SWE}{br}{txt:msx-white:17h} {ico:msx-white:sensors}",
+			"action": "link:https://tinyurl.com/3xnt7247",
+			"titleHeader": "{txt:msx-white:MEX}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ECU}{br}{txt:msx-white:21h} {ico:msx-white:sensors}",
 			"titleFooter": "",
-			"text": "{txt:msx-gray-light:MEX}{ico:#8e8e8e:horizontal-rule}{txt:msx-gray-light:ECU}{br}{ico:arrow-right}21h"
+			"text": ""
 		},
 		{
 			"enumerate": false,
