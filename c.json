@@ -66,10 +66,10 @@
          "extensionLabel": "",
          "alignment": "text-right",
          "centration": "text|title",
-         "action": "link:https://tinyurl.com/33kyyvxn",
-         "titleHeader": "{txt:msx-white:ENG}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:COD}{br}{txt:msx-white:12h} {ico:msx-white:sensors}",
+         "action": "link:https://tinyurl.com/f93mde9r",
+         "titleHeader": "{txt:msx-white:BEL}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:SEN}{br}{txt:msx-white:16h} {ico:msx-white:sensors}",
          "titleFooter": "",
-         "text": "{txt:msx-white:BEL}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:SEN}{ico:arrow-right}16h{br}{txt:msx-white:USA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:BIH}{ico:arrow-right}20h"
+         "text": "{txt:msx-white:USA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:BIH}{br}{ico:arrow-right}20h"
       },
       {
          "enumerate": false,
