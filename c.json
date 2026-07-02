@@ -66,7 +66,7 @@
 			"extensionLabel": "",
 			"alignment": "text-right",
 			"centration": "text|title",
-			"action": "link:https://tinyurl.com/458jnfb9",
+			"action": "link:https://tinyurl.com/2kj628ks",
 			"titleHeader": "{txt:msx-white:ESP}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:AUT}{br}{txt:msx-white:15h} {ico:msx-white:sensors}",
 			"titleFooter": "",
 			"text": "{txt:msx-white:POR}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:CRO}{ico:arrow-right}19h{br}{txt:msx-white:SUI}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ALG}{ico:arrow-right}23h"
@@ -94,7 +94,7 @@
 			"display": false,
 			"label": "M6",
 			"extensionLabel": "{ico:open-in-browser}",
-			"action": "link:https://tinyurl.com/479hesdd"
+			"action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/55sxz8ax"
 		}
 	]
 }
