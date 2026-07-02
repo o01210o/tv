@@ -32,7 +32,7 @@
 		{
 			"label": "LCI",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/lci.png",
-			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://tvradiozap.eu/tools/tf-m3u8.php/LCI.m3u8"
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/c/lci.m3u"
 		},
 		{
 			"label": "TF1",
@@ -42,18 +42,20 @@
 		{
 			"label": "TV5 MONDE INFO",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tv5_info.png",
-			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/tv5.m3u"
+			"action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
+			"playerLabel": "TV5 MONDE INFO"
 		},
 		{
 			"label": "TV5 MONDE VOYAGE",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tv5_voyage.png",
-			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074"
+			"action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074",
+			"playerLabel": "TV5 MONDE VOYAGE"
 		},
 		{
 			"label": "EURONEWS FR",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/euronews.png",
 			"action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=NiRIbKwAejk",
-			"playerlabel": "EURONEWS FR"
+			"playerLabel": "EURONEWS FR"
 		},
 		{
 			"label": "BFM TV",
@@ -66,10 +68,10 @@
 			"extensionLabel": "",
 			"alignment": "text-right",
 			"centration": "text|title",
-			"action": "link:https://tinyurl.com/2kj628ks",
-			"titleHeader": "{txt:msx-white:ESP}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:AUT}{br}{txt:msx-white:15h} {ico:msx-white:sensors}",
+			"action": "link:https://tinyurl.com/25cfwh3t",
+			"titleHeader": "{txt:msx-white:POR}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:CRO}{br}{txt:msx-white:19h} {ico:msx-white:sensors}",
 			"titleFooter": "",
-			"text": "{txt:msx-white:POR}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:CRO}{ico:arrow-right}19h{br}{txt:msx-white:SUI}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ALG}{ico:arrow-right}23h"
+			"text": "{txt:msx-white:SUI}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ALG}{br}{ico:arrow-right}23h"
 		},
 		{
 			"enumerate": false,
@@ -93,7 +95,7 @@
 		{
 			"display": false,
 			"label": "M6",
-			"extensionLabel": "{ico:open-in-browser}",
+			"playerLabel": "M6",
 			"action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/55sxz8ax"
 		}
 	]
