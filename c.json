@@ -67,10 +67,10 @@
 			"extensionLabel": "",
 			"alignment": "text-right",
 			"centration": "text|title",
-			"action": "link:https://tinyurl.com/2s4enadz",
-			"titleHeader": "{txt:msx-white:AUS}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:EGY}{br}{txt:msx-white:14h} {ico:msx-white:sensors}",
+			"action": "link:https://tinyurl.com/yhyptrsa",
+			"titleHeader": "{txt:msx-white:ARG}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:CPV}{br}{txt:msx-white:18h} {ico:msx-white:sensors}",
 			"titleFooter": "",
-			"text": "ARG{ico:#8e8e8e:horizontal-rule}CPV{ico:arrow-right}18h{br}COL{ico:#8e8e8e:horizontal-rule}GHA{ico:arrow-right}21h30"
+			"text": "COL{ico:#8e8e8e:horizontal-rule}GHA{br}{ico:arrow-right}21h30"
 		},
 		{
 			"enumerate": false,
