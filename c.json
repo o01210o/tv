@@ -67,7 +67,7 @@
 			"extensionLabel": "",
 			"alignment": "text-right",
 			"centration": "text|title",
-			"action": "link:https://tinyurl.com/5n75eycp",
+			"action": "link:https://tinyurl.com/3hzdna3k",
 			"titleHeader": "{txt:msx-white:CAN}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:MAR}{br}{txt:msx-white:13h} {ico:msx-white:sensors}",
 			"titleFooter": "",
 			"text": "{txt:msx-white:PAR}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:FRA}{br}{ico:arrow-right}17h"
@@ -92,7 +92,7 @@
 			"action": "cleaning"
 		},
 		{
-			"display": false,
+			"display": true,
 			"label": "M6",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/m6.png",
 			"action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/55sxz8ax",
