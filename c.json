@@ -68,7 +68,7 @@
 			"alignment": "text-right",
 			"centration": "text|title",
 			"action": "link:https://tinyurl.com/5n75eycp",
-			"titleHeader": "{txt:msx-white:CAN}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:MAR}{br}{txt:msx-white:14h} {ico:msx-white:sensors}",
+			"titleHeader": "{txt:msx-white:CAN}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:MAR}{br}{txt:msx-white:13h} {ico:msx-white:sensors}",
 			"titleFooter": "",
 			"text": "{txt:msx-white:PAR}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:FRA}{br}{ico:arrow-right}17h"
 		},
