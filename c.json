@@ -62,6 +62,22 @@
 			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://github.com/o01210o/tv/raw/refs/heads/main/c/bfm.m3u"
 		},
 		{
+			"display": true,
+			"label": "M6",
+			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/m6.png",
+			"action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/55sxz8ax",
+			"playerLabel": "M6"
+		},
+		{
+			"type": "space"
+		},
+		{
+			"enumerate": false,
+			"type": "button",
+			"label": "{ico:refresh} Recharger",
+			"action": "cleaning"
+		},
+		{
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26.png",
 			"imageWidth": 0.45,
 			"extensionLabel": "",
@@ -84,19 +100,6 @@
 			"titleHeader": "{txt:msx-white:BRA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:NOR}{br}{txt:msx-white:MEX}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ENG}",
 			"titleFooter": "",
 			"text": "5 juillet{ico:arrow-right}16h{br}{ico:arrow-right}20h"
-		},
-		{
-			"enumerate": false,
-			"type": "button",
-			"label": "{ico:refresh} Recharger",
-			"action": "cleaning"
-		},
-		{
-			"display": true,
-			"label": "M6",
-			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/m6.png",
-			"action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/55sxz8ax",
-			"playerLabel": "M6"
 		}
 	]
 }
