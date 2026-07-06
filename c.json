@@ -83,10 +83,10 @@
 			"extensionLabel": "",
 			"alignment": "text-right",
 			"centration": "text|title",
-			"action": "link:https://tinyurl.com/3emaba7z",
-			"titleHeader": "{txt:msx-white:POR}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ESP}{br}{txt:msx-white:15h} {ico:msx-white:sensors}",
+			"action": "link:https://tinyurl.com/35wjt3ku",
+			"titleHeader": "{txt:msx-white:USA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:BEL}{br}{txt:msx-white:20h} {ico:msx-white:sensors}",
 			"titleFooter": "",
-			"text": "USA{ico:#8e8e8e:horizontal-rule}BEL{br}{ico:arrow-right}20h"
+			"text": ""
 		},
 		{
 			"enumerate": false,
