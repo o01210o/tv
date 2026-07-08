@@ -31,7 +31,7 @@
 		{
 			"label": "LCI",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/lci.png",
-			"action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/bdhh7z53",
+			"action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/395hs7pt",
 			"playerLabel": "LCI"
 		},
 		{
