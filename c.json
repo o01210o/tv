@@ -70,7 +70,10 @@
 			"playerLabel": "M6"
 		},
 		{
-			"display": true,
+			"type": "space"
+		},
+		{
+			"display": false,
 			"enumerate": false,
 			"label": "",
 			"action": "video:plugin:https://o01210o.github.io/tv/c/col.html?url=6-M6",
