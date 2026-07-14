@@ -90,7 +90,7 @@
 			"alignment": "text-right",
 			"centration": "text|title",
 			"action": "link:",
-			"titleHeader": "{txt:msx-white:FRA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ESP}{br}Mardi 14 juillet{ico:arrow-right}15h",
+			"titleHeader": "{txt:msx-white:FRA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ESP}{br}{txt:msx-white:15h}",
 			"titleFooter": "",
 			"text": ""
 		},
