@@ -66,15 +66,11 @@
 			"display": true,
 			"label": "M6",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/m6.png",
-			"action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/49hzhw99",
+			"action": "video:plugin:https://o01210o.github.io/tv/c/col.html?url=6-M6",
 			"playerLabel": "M6"
 		},
 		{
-			"display": true,
-			"enumerate": false,
-			"label": "",
-			"action": "video:plugin:https://o01210o.github.io/tv/c/col.html?url=6-M6",
-			"playerLabel": "{sp}"
+			"type": "separate"
 		},
 		{
 			"enumerate": false,
