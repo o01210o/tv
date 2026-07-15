@@ -90,23 +90,22 @@
 			"alignment": "text-right",
 			"centration": "text|title",
 			"action": "link:",
-			"titleHeader": "{txt:msx-white:FRA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ESP}{br}{txt:msx-white:15h}",
+			"titleHeader": "{txt:msx-white:ENG}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ARG}{br}{txt:msx-white:15h}",
 			"titleFooter": "",
 			"text": ""
 		},
 		{
 			"enumerate": false,
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/ff26_2.png",
-			"tag": "demi",
 			"imageWidth": 0.67,
 			"imageFiller": "height-center",
 			"extensionLabel": "",
 			"alignment": "text-right",
 			"centration": "text|title",
 			"action": "image:context",
-			"titleHeader": "{txt:msx-white:ENG}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:ARG}{br}Mercredi 15 juillet{ico:arrow-right}15h",
+			"titleHeader": "{txt:msx-white:FRA}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:}{br}{txt:msx-white:ESP}{ico:#8e8e8e:horizontal-rule}{txt:msx-white:}",
 			"titleFooter": "",
-			"text": ""
+			"text": "Sam.{ico:arrow-right}17h{br}Dim.{ico:arrow-right}15h"
 		}
 	]
 }
