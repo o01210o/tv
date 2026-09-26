@@ -37,7 +37,8 @@
 		{
 			"label": "TF1",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tf1.png",
-			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/c/tf1.m3u"
+			"action": "playlist:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/c/tf1.m3u",
+			"playerLabel": "TF1"
 		},
 		{
 			"label": "TV5 MONDE INFO",
