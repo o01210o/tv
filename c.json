@@ -67,7 +67,16 @@
 			"label": "M6",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/m6.png",
 			"action": "video:plugin:https://o01210o.github.io/tv/c/col.html?url=6-M6",
-			"playerLabel": "M6"
+			"playerLabel": "M6",
+			"extensionIcon": "open-in-browser"
+		},
+		{
+			"display": true,
+			"label": "france.tvsport",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/8/83/FranceTV_Sport_2024.png",
+			"action": "video:plugin:https://o01210o.github.io/tv/c/col.html?url=29-france.tvsport",
+			"playerLabel": "france.tvsport",
+			"extensionIcon": "open-in-browser"
 		},
 		{
 			"display": false,
