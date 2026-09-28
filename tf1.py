@@ -20,7 +20,7 @@ def update_tf1():
 		if tf1_url:
 			header = "#EXTM3U"
 			infotag = '#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tf1.png",TF1'
-			infotag2 = '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36'
+			infotag2 = '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36'
 			content = f"{header}\n{infotag}\n{tf1_url}\n{infotag2}"
 			
 			with open(TARGET_FILE, "w", encoding="utf-8") as f:
