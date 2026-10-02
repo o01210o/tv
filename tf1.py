@@ -2,15 +2,15 @@ import json
 import os
 import requests
 
-SOURCE_URL = os.getenv("SOURCE_M3U_URL")
+SOURCE_M3U_URL = os.getenv("SOURCE_M3U_URL")
 
 
 def get_tf1_m3u():
-    if not SOURCE_URL:
+    if not SOURCE_M3U_URL:
         exit(1)
 
     try:
-        response = requests.get(SOURCE_URL, timeout=15)
+        response = requests.get(SOURCE_M3U_URL, timeout=15)
         response.raise_for_status()
         lines = response.text.splitlines()
 
