@@ -1,10 +1,11 @@
 import requests
+import re
+import json
 import os
 
 SOURCE_URL = os.getenv("SOURCE_M3U_URL")
-TARGET_FILE = os.path.join("c", "tf1.m3u")
 
-def update_tf1():
+def get_tf1_m3u():
 	try:
 		response = requests.get(SOURCE_URL, timeout=15)
 		response.raise_for_status()
@@ -17,21 +18,53 @@ def update_tf1():
 					tf1_url = lines[i+1].strip()
 					break
 
-		if tf1_url:
-			header = "#EXTM3U"
-			infotag = '#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tf1.png",TF1'
-			infotag2 = '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36'
-			content = f"{header}\n{infotag}\n{tf1_url}\n{infotag2}"
-			
-			with open(TARGET_FILE, "w", encoding="utf-8") as f:
-				f.write(content)
-			print(f"✅ {TARGET_FILE} updated.")
-		else:
-			print("❌ tf1 not found in source.")
+		return tf1_url
 
 	except Exception as e:
-		print(f"⚠️ Error : {e}")
+		print(f"Error : {e}")
 		exit(1)
 
+
+
+def update_msx_json(target_label, new_action):
+	file_path = "c.json"
+	
+	if not os.path.exists(file_path):
+		print(f"Error: {file_path} not found.")
+		return
+
+	with open(file_path, 'r', encoding='utf-8') as f:
+		data = json.load(f)
+
+	updated = False
+
+	for item in data.get('items', []):
+		if item.get('label') == target_label:
+			old_action = item.get('action', '')
+			
+			if old_action != new_action:
+				item['action'] = "video:plugin:http://msx.benzac.de/plugins/hls.html?url=" + new_action
+				updated = True
+				print(f"Updated action for '{target_label}'")
+			else:
+				print(f"Action for '{target_label}' is already up to date.")
+
+			break
+
+	if updated:
+		with open(file_path, 'w', encoding='utf-8') as f:
+			json.dump(data, f, indent="\t", ensure_ascii=False)
+		print("File saved successfully.")
+	else:
+		print("No changes made to the file.")
+
+
+
 if __name__ == "__main__":
-	update_tf1()
+
+	m3u = get_tf1_m3u()
+
+	if m3u:
+		update_msx_json("TF1", m3u)
+	else:
+		print("Failed.")
