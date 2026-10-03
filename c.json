@@ -37,7 +37,7 @@
 		{
 			"label": "TF1",
 			"image": "https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tf1.png",
-			"action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/akGnYnhh0r0E/res/pUCiMLALBA2D28AP-highest.m3u8",
+			"action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/eB24AYIaUnTe/res/FOS4QdLVNbmjsIq2-highest.m3u8",
 			"playerLabel": "TF1"
 		},
 		{
