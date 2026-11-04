@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/rdi.png",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
+
+#EXTINF:-1 tvg-id="LCN.ca" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/lcn.png",LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+
+#EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tva.png",TVA
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/france24.png",FRANCE 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="TV5 Monde Info" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/tv5_info.png",TV5 MONDE INFO
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/o01210o/tv/refs/heads/main/i/bfm.png",BFM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
